@@ -6,6 +6,7 @@ body {
     font-family: 'Newsreader', serif;
     font-size: 20px;
     font-weight: 400;
+    font-display: swap;
 }
 
 h1 {
@@ -15,6 +16,7 @@ h1 {
     font-family: 'Noto Serif', serif;
     font-size: 50px;
     font-weight: 200;
+    font-display: swap;
 }
 
 h2 {
@@ -25,6 +27,7 @@ h2 {
     font-family: 'Noto Serif', serif;
     font-size: 36px;
     font-weight: 300;
+    font-display: swap;
 }
 
 h3 {
@@ -35,6 +38,7 @@ h3 {
     font-family: 'Noto Serif', serif;
     font-size: 28px;
     font-weight: 300;
+    font-display: swap;
 }
 
 h4 {
@@ -45,6 +49,7 @@ h4 {
     font-family: 'Noto Serif', serif;
     font-size: 24px;
     font-weight: 400;
+    font-display: swap;
 }
 
 h5 {
@@ -55,6 +60,7 @@ h5 {
     font-family: 'Noto Serif', serif;
     font-size: 20px;
     font-weight: 400;
+    font-display: swap;
 }
 
 h6 {
@@ -67,12 +73,14 @@ h6 {
     font-weight: 500;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+    font-display: swap;
 }
 
 .container {
     max-width: 600px;
     margin: 0 auto;
     padding: 20px;
+    font-display: swap;
 }
 
 .scroll-indicator {
@@ -89,6 +97,7 @@ h6 {
     z-index: 1000;
     transition: opacity 0.3s;
     pointer-events: none;
+    font-display: swap;
 }
 
 .scroll-indicator.at-top {
@@ -118,6 +127,7 @@ h6 {
     font-size: 28px;
     font-weight: 200;
     margin-bottom: 0.5em;
+    font-display: swap;
 }
 
 .post-title a {
@@ -142,6 +152,7 @@ h6 {
     color: #6c7086;
     margin-top: 0.5em;
     font-family: 'Noto Serif', serif;
+    font-display: swap;
 }
 
 
@@ -155,6 +166,7 @@ h6 {
     font-size: 19px;
     font-weight: 300;
     border-top: 1px solid #313244;
+    font-display: swap;
 }
 
 .footer p {
@@ -181,6 +193,7 @@ h6 {
 
 .header h3{
     font-family: 'Zalando Sans SemiExpanded', sans-serif;
+    font-display: swap;
 }
 
 @keyframes marquee {
