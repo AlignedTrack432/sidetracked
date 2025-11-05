@@ -1,0 +1,201 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #1e1e2e;
+    color: #cdd6f4;
+    font-family: 'Newsreader', serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+h1 {
+    margin-bottom: 1em;
+    padding: 0;
+    color: #cdd6f4;
+    font-family: 'Noto Serif', serif;
+    font-size: 50px;
+    font-weight: 200;
+}
+
+h2 {
+    margin-top: 1.5em;
+    margin-bottom: 0.75em;
+    padding: 0;
+    color: #cdd6f4;
+    font-family: 'Noto Serif', serif;
+    font-size: 36px;
+    font-weight: 300;
+}
+
+h3 {
+    margin-top: 1.25em;
+    margin-bottom: 0.5em;
+    padding: 0;
+    color: #cdd6f4;
+    font-family: 'Noto Serif', serif;
+    font-size: 28px;
+    font-weight: 300;
+}
+
+h4 {
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    padding: 0;
+    color: #cdd6f4;
+    font-family: 'Noto Serif', serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+h5 {
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    padding: 0;
+    color: #a6adc8;
+    font-family: 'Noto Serif', serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+h6 {
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    padding: 0;
+    color: #a6adc8;
+    font-family: 'Noto Serif', serif;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.scroll-indicator {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #11111b;
+    color: #cdd6f4;
+    font-family: 'Zalando Sans SemiExpanded', serif;
+    padding: 10px 15px;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: bold;
+    z-index: 1000;
+    transition: opacity 0.3s;
+    pointer-events: none;
+}
+
+.scroll-indicator.at-top {
+    opacity: 0.5;
+}
+
+.scroll-indicator.at-bottom {
+    opacity: 0;
+}
+
+.post-list {
+    margin-top: 2em;
+}
+
+.post-item {
+    margin-bottom: 2em;
+    padding-bottom: 2em;
+    border-bottom: 1px solid #45475a;
+}
+
+.post-item:last-child {
+    border-bottom: none;
+}
+
+.post-title {
+    font-family: 'Noto Serif', serif;
+    font-size: 28px;
+    font-weight: 200;
+    margin-bottom: 0.5em;
+}
+
+.post-title a {
+    color: #cdd6f4;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.post-title a:hover {
+    color: #89b4fa;
+}
+
+.post-excerpt {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #a6adc8;
+    margin: 0;
+}
+
+.info {
+    font-size: 16px;
+    color: #6c7086;
+    margin-top: 0.5em;
+    font-family: 'Noto Serif', serif;
+}
+
+
+.footer {
+    background-color: #11111b;
+    color: #cdd6f4;
+    text-align: center;
+    padding: 20px 10px;
+    margin-top: 40px;
+    font-family: 'Zalando Sans SemiExpanded', sans-serif;
+    font-size: 19px;
+    font-weight: 300;
+    border-top: 1px solid #313244;
+}
+
+.footer p {
+    margin: 0 0 10px;
+}
+
+.footer a {
+    color: #89b4fa;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    color: #b4befe;
+}
+
+
+.intro h1 {
+    margin-bottom: 0rem;
+}
+
+.intro h4 {
+    margin-top: 0;
+}
+
+.header h3{
+    font-family: 'Zalando Sans SemiExpanded', sans-serif;
+}
+
+.marquee-container {
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+}
+
+.scroll-text {
+    display: inline-block;
+    padding-left: 100%; /* Start just off-screen to the right */
+    animation: marquee 60s linear infinite;
+}
+
+@keyframes marquee {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+}

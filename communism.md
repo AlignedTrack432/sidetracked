@@ -1,0 +1,98 @@
+# Shower thoughts on communism (even though capitalism sucks too)
+I was in the shower recently thinking about communism.
+
+The question isn't whether communism is appealing as a concept. Many of its goals around equality and meeting human needs are admirable. The question is whether it can actually function at the scale of a nation, particularly one as large and diverse as the United States. The answer, when examining practical constraints rather than ideological preferences, appears to be no.
+
+Communism might work in small communities where people know each other, share values, and can coordinate effectively. But scaling to millions or hundreds of millions of people introduces fundamental organizational challenges.
+
+Systems requiring high trust and shared values function better when people actually know each other. At the scale of millions, you need entirely different organizational structures.
+
+Centralized systems struggle with the information problem. Decision-makers are far removed from local conditions and lack the distributed information that even imperfect market signals provide. Though it's worth noting that large capitalist systems face their own coordination failures. The 2008 financial crisis was a massive information and coordination breakdown in a supposedly efficient market system. Scale introduces complexity for any economic model, not just communist ones.
+
+Small, relatively homogeneous populations can build consensus on what "fair" looks like more easily. Consider the Nordic countries, though calling them simply "capitalist" oversimplifies things. They have significant state ownership, unions with real power over corporate decisions, and different property relations than pure market capitalism. They're more accurately described as hybrid systems, demonstrating that the spectrum between capitalism and socialism isn't binary. But even these systems, operating at 5-10 million people, face challenges. Scaling to the United States with 335 million people spread across vastly different regions with different priorities makes the complexity explode exponentially.
+
+Communism assumes a world of relative abundance where the main issue is distribution. But what happens during actual scarcity, real famine, economic collapse, crisis? Someone, somewhere, has to make impossible choices about who gets what.
+
+Imagine: a starving single mother with three kids (including a newborn) and a single father with two kids. You have limited food. Who do you prioritize? The larger family? Do you factor in that the newborn has no self-awareness or memories yet? There's no objectively correct answer, only tragic trade-offs.
+
+Centralized systems are particularly dangerous for handling these decisions, not because distributed systems avoid the moral horror, but because of where the responsibility concentrates:
+
+In a centralized system, someone (or some committee) has to literally decide: "these people get food, those people don't." They're actively choosing who lives and who dies. That's the trolley problem made real and you're forced to pull a lever. Decision-makers are removed from local realities, power concentration makes the system vulnerable to both corruption and ideological rigidity, and with no objective moral standard to constrain them, this concentrated authority becomes extraordinarily dangerous. Historical examples—Stalin's policies during the Holodomor, Mao's Great Leap Forward—show how catastrophically wrong this can go.
+
+In a market system during famine, people starve because they can't afford food, but no single person made that specific choice about who dies. It's an emergent outcome of millions of distributed decisions. The moral horror is diffused across the system rather than concentrated in specific decision-makers. This doesn't make the deaths less real or the suffering less terrible. People still die, children still starve, and it's arguably worse because the diffusion of responsibility means no one feels accountable. It obscures the fact that these are still choices—policy choices, economic choices—and lets people off the hook morally ("the market decided, not me").
+
+But the mechanism of suffering matters, not just the amount. One type of bad (concentrated moral authority with life-and-death power) creates different failure modes than another type of bad (diffused negligence where everyone can claim it wasn't their choice). Capitalist famines have killed millions too—Bengal 1943, the Irish potato famine where food exports continued while people starved. The question isn't which system avoids moral catastrophe, but which failure mode is less likely to produce the worst outcomes given human fallibility and the absence of objective moral foundations.
+
+Even most communist theory doesn't eliminate money entirely in the near term. Historically, communist states used currency and wages, just with state control. But this creates murky questions: who controls how money is made and distributed? How are taxes collected and allocated? How do people acquire personal belongings beyond basic necessities?
+
+The answer typically becomes: centralized state bureaucracy. This introduces massive inefficiency and corruption opportunities. Any system must be robust to bad actors. Calling this "human nature" is philosophically contested—what we call human nature is partly shaped by the systems we live in, and people do behave differently in different economic contexts. But the practical point stands: assuming universal honesty and virtue is a fantasy. Free will exists, and humans will game whatever system you create.
+
+Communist systems rely heavily on good faith: how do they verify you're not lying about your assets to receive more? Who ensures the distributors aren't corrupt? What prevents those with power from abusing it? History shows these aren't hypothetical concerns. Systems need mechanisms that work even when people are selfish, dishonest, or corrupt.
+
+Centralized systems can innovate. The Soviet space program, nuclear weapons development, and current Chinese technological advancement prove this definitively. The internet itself emerged partly from DARPA, government funding driving fundamental research. China's current system (state capitalism with heavy central planning) is producing substantial innovation in AI, green energy, and infrastructure.
+
+The relationship between economic systems and innovation is complex. Market competition drives a particular kind of rapid consumer innovation—computers, smartphones, the variety of products we take for granted emerged largely from capitalist systems with their complex payment and delivery mechanisms. But centralized systems excel at coordinated, long-term projects with unclear immediate returns: space programs, fundamental research, massive infrastructure. The Soviet Union went from agrarian society to space power in four decades.
+
+The question isn't "which system innovates?" but "what kind of innovation, under what circumstances, and at what cost?" Markets incentivize incremental consumer innovation but underprovide public goods and long-term research. Centralized planning can achieve massive coordinated projects but often misses decentralized needs and evolving preferences. Both models have demonstrated innovation capacity; both have characteristic blind spots.
+
+Markets do aggregate information through price signals, but they also produce systematic failures that aren't just policy mistakes to be fixed: externalities (pollution, climate change), public goods problems (infrastructure, basic research), information asymmetries (healthcare, financial products), boom-bust cycles, monopolistic behavior. These aren't edge cases, they're fundamental features of how markets work.
+
+Wealth inequality isn't just about lack of redistribution; it's baked into how capital accumulation functions. Healthcare can't work as a pure market because you can't shop around while having a heart attack, and insurance companies profit by denying care. Housing markets lock people out not through individual moral failures but through structural dynamics of property as investment.
+
+Many complaints about "capitalism" are really about lack of regulation, weak labor protections, or specific political choice—problems that could theoretically be addressed through reforms. But some problems are more fundamental to treating human needs (housing, healthcare, education) as commodities subject to profit-seeking.
+
+Every large-scale communist attempt ended in some combination of: economic failure, famine (sometimes with cannibalism during the worst periods), authoritarian repression, collapse. The Soviet Union, Maoist China, the Khmer Rouge—these aren't abstract failures. They're documented catastrophes.
+
+But if we're evaluating systems by their worst implementations, capitalism also has famines (Bengal, Ireland), authoritarian implementations (Pinochet's Chile), and catastrophic failures. The question becomes whether the bad outcomes were inherent to the system or contingent on other factors, and that's genuinely hard to determine.
+
+The crucial question I don't fully answer: why did revolutionary communist transitions become authoritarian? Is it inherent to attempting communism, or inherent to revolutionary change in general? Is it about the economic system, or about seizing state power through violence? That's a crucial distinction.
+
+It's also worth noting that my critique mostly addresses centrally planned economies (the USSR model). But there are other traditions—anarcho-communism, council communism, market socialism, cooperative economics—that don't rely on central planning. The critique of central planning may not apply equally to all variants of communist thought.
+
+Even so, the historical reality creates a massive political obstacle. This isn't just irrational propaganda backed by abstract fears, it's backed by actual documented events. Even if you argue "that wasn't real communism" or "authoritarianism was the problem, not the economic system," you're asking people to trust that this time will be different. That's an incredibly hard sell.
+
+This is different from fighting prejudices like racism or homophobia. Those are hatreds of people for existing. Resistance to communism is resistance to a system with a track record. The perception problem has a foundation in reality, not just bias.
+
+For the United States specifically, you'd face: decades of Cold War cultural conditioning, a national identity built around individualism and entrepreneurship, many citizens who fled communist regimes and have personal reasons for opposition, and powerful economic interests with every incentive to resist.
+
+Implementing communism in any way other than by force is simply impossible. And force would introduce catastrophic problems of its own. Even if 51% of people voted for communism tomorrow, how would you actually transform an economy that size without massive disruption? Who loses their assets and how? How do you prevent capital flight? What happens during the chaotic transition period? How do you maintain basic services while restructuring everything?
+
+Revolutionary upheaval at the scale of a nation-state is extraordinarily risky. You're not just changing policy; you're trying to coordinate massive transformation across a continent-sized population.
+
+Much of what people hate about capitalism is actually about specific policy failures that exist in some capitalist countries but not others: healthcare access problems in the US (other capitalist countries provide universal healthcare effectively), corruption in government contracts (happens under any economic system), extreme wealth inequality (could be addressed through taxation and redistribution without abolishing markets).
+
+These could potentially be addressed through reforms rather than revolution. But that requires honestly distinguishing between problems inherent to markets and problems that are policy choices.
+
+There is no economic system that can fix everything. Anyone who says otherwise is lying.
+
+Capitalism sucks at: wealth inequality, leaving people behind, treating healthcare as a commodity, boom-bust cycles, environmental destruction for profit, systematic power imbalances between capital and labor.
+
+Communism (as implemented) sucks at: innovation incentives in consumer goods, efficiency, personal freedom, resisting authoritarian drift, handling scarcity, preventing power abuse.
+
+Social democracies suck at: being expensive, requiring high trust and cohesion, sometimes stifling growth, and still not eliminating capitalism's problems, just mitigating them.
+
+The question isn't "which system is perfect?" It's "which problems can we actually handle, and which ones hurt the most people the worst?" That varies by context, culture, size, and resources.
+
+When I say "there is no objective right and wrong," I'm not arguing for nihilistic relativism where all choices are equally valid. Decisions still have to be made. Resources must be allocated. During scarcity, someone eats and someone doesn't.
+
+What I mean is: there's no cosmic answer key for complex moral and political questions, no objective foundation we can point to that definitively proves "this is the right way to organize an economy" or "this person deserves food more than that person."
+
+This matters enormously for WHERE moral authority gets concentrated:
+
+In centralized systems, a committee must explicitly decide moral questions ("who gets food?"), articulate criteria and apply them to millions of people, and construct and enforce what counts as "right" across an entire nation. With no objective standard to check them, this concentrated power becomes extremely dangerous. Stalin and Mao weren't just bad people, they had concentrated power to enforce their moral vision without effective constraints or feedback mechanisms.
+
+In distributed systems, moral judgments emerge from millions of individual decisions within constraints. No single entity declares "this is the right allocation." The outcomes still reflect values (property rights, market rules) and can be horrible, but there's no single point of moral authority that can impose their vision by force. Power is diffused, which limits how catastrophically wrong any single moral judgment can go.
+
+Given moral uncertainty plus human fallibility plus power corruption, distributed decision-making is less likely to produce catastrophic outcomes than centralized decision-making, even if both produce significant suffering.
+
+This isn't "everything is relative so nothing matters." It's "because there's no objective foundation, concentrating moral decision-making power is especially dangerous."
+
+We can still make evidence-based judgments about what reduces suffering. We can still say some systems work better than others in specific contexts. We can distinguish between better and worse outcomes based on measurable impacts. But we should maintain humility about our certainty and be extremely cautious about giving anyone the power to enforce their moral vision on millions of people.
+
+Communism at the scale of a modern nation-state faces insurmountable practical problems: scale (though this affects all large systems), human behavior (though what counts as "nature" versus learned is contested), implementation challenges, historical stigma, and the fundamental challenge of making tragic choices under scarcity without concentrating dangerous amounts of moral authority.
+
+This doesn't mean capitalism is perfect or that we shouldn't pursue reforms. Strong social safety nets, universal healthcare, worker protections, progressive taxation—these are all possible within market economies, as demonstrated by various countries. Some problems attributed to capitalism are really policy choices that could be different.
+
+The goal should be reducing suffering and building systems that suck less, not chasing ideological purity. That requires accepting trade-offs, staying humble about our certainty, and being honest about what actually works rather than what we wish would work.
+
+It's not right. It's not good. But in a way, nothing is. We're all just making decisions in a universe that doesn't come with an answer key, trying to choose options that lead to less suffering rather than more. And maybe that's the best it's the best we can do.
